@@ -1,3 +1,2 @@
 # hello-world
-My first test repository
-My first change
+This is my first repository. I am Arkadeep Adhikari. Welcome to my page!
